@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Alonzo Diale
 
-🎯 Aspiring **Front-End Developer** | 💻 IT Support Technician  
+🎯 Aspiring **Software Developer | 💻 IT Support Technician**  
 📍 Pretoria, Gauteng, South Africa  
 📫 [Lanzodiale@gmail.com](mailto:Lanzodiale@gmail.com)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/alonzo-diale-2197a7250)
@@ -11,7 +11,7 @@
 
 I'm a passionate IT student with hands-on experience in front-end development and IT support. I specialize in creating clean, responsive, and intuitive web interfaces using technologies like **HTML, CSS, JavaScript, Node.js**, and **PHP**.
 
-I've worked as a **Front-End Developer Intern at ATOS**, where I designed and implemented user-focused web interfaces, and as an **IT Support Technician at Daimler Truck Southern Africa**, providing technical support and system troubleshooting.
+I've worked as a **Software Developer Intern at ATOS**, where I designed and implemented user-focused web interfaces and integrated backends, and as an **IT Support Technician at Daimler Truck Southern Africa**, providing technical support and system troubleshooting.
 
 I thrive in collaborative environments, continuously build new skills, and aim to contribute to innovative, impactful digital solutions.
 
@@ -19,7 +19,7 @@ I thrive in collaborative environments, continuously build new skills, and aim t
 
 ## 🛠️ Tech Stack
 
-- **Languages**: HTML, CSS, JavaScript, PHP, C#, SQL
+- **Languages**: HTML, CSS, JavaScript, PHP, React, C#, SQL
 - **Frameworks & Tools**: Node.js, .NET Core, Xamarin
 - **DevOps & Cloud**: Microsoft Azure, Azure Fundamentals, Azure Administrator
 - **Other Tools**: Git, ServiceNow, Microsoft Office Suite
